@@ -1,0 +1,16 @@
+Formula 1 for hour hand:
+
+for h hour = (30h + m/2)
+
+
+
+Formula 2 for minute hand:
+
+for m = 6m degree
+
+
+
+Formula 3 for second hand:
+
+for s = 6s degree 
+
